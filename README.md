@@ -2,6 +2,9 @@
 
 Paste in a website URL and extract structured data from it using LLMs.
 
+Follow along with any code shared in the [Google Doc here](https://docs.google.com/document/d/1FPKXjrThNFa1YXAsW-qfxHvka-JvAnj-BquVSxPTrW8/edit?usp=sharing)
+
+
 ## Getting Started
 
 1. First, clone the repository and cd into the directory
@@ -23,6 +26,10 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+
+## Gemini API Key
+- Get your API key to access Google Gemini [here](https://aistudio.google.com/apikey)
 
 
 ## Learn More
