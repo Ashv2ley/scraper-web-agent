@@ -5,6 +5,17 @@ Paste in a website URL and extract structured data from it using LLMs.
 Follow along with any code shared in the [Google Doc here](https://docs.google.com/document/d/1FPKXjrThNFa1YXAsW-qfxHvka-JvAnj-BquVSxPTrW8/edit?usp=sharing)
 
 
+# Example Use Case
+- Scraping YC to find the startups that best align with your resume
+
+
+![Image](https://github.com/user-attachments/assets/32dfe308-957b-4df4-aa80-bc02a93b2fe2)
+
+
+![Image](https://github.com/user-attachments/assets/f11f900c-8db9-4235-8500-6506819f0ea7)
+
+
+
 ## Getting Started
 
 1. First, clone the repository and cd into the directory
