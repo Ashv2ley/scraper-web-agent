@@ -18,10 +18,16 @@ export default function Home() {
     isAnalyzingResume: false,
   });
 
-  const handleSubmit = async (e: React.FormEvent) => {};
-
   const handleFormChange = (field: keyof FormState, value: string) => {
     setFormState(prev => ({ ...prev, [field]: value }));
+  };
+
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    // TODO: Implement API to analyze the website
+
+
+
   };
 
   return (
